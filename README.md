@@ -9,3 +9,5 @@ I'm Aaron Dewes, a 13-year-old developer from Germany.
 #### My stats
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=AaronDewes)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs?username=AaronDewes)](https://github.com/anuraghazra/github-readme-stats)
