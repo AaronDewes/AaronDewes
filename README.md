@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vue, Python**
 
-- 🔭 I’m also contributing to [Umbrel](https://github.com/getumbrel)
+- 🔭 I’ve been contributing to [Umbrel](https://github.com/getumbrel), but now founded [Citadel](https://github.com/runcitadel).
 
 - 📫 How to reach me **Email: aaron.dewes@web.de; Telegram: [t.me/aarondewes](t.me/AaronDewes)**
 
