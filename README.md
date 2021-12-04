@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/aarondewes" target="blank"><img src="https://img.shields.io/twitter/follow/aarondewes?logo=twitter&style=for-the-badge" alt="aarondewes" /></a> </p>
 
-- 🔭 I’m currently working on [Endorphin, a web browser](https://gitlab.com/EndorphinBrowser)
+- 🌱 I’m currently learning **Vue**
 
-- 🌱 I’m currently learning **Vue, Python**
+- 🔭 I’m currently working on [Citadel](https://github.com/runcitadel).
 
-- 🔭 I’ve been contributing to [Umbrel](https://github.com/getumbrel), but now founded [Citadel](https://github.com/runcitadel).
-
-- 📫 How to reach me **Email: aaron.dewes@web.de; Telegram: [t.me/aarondewes](t.me/AaronDewes)**
+- 📫 How to reach me **Email: aaron.dewes@protonmail.com; Telegram: [t.me/aarondewes](https://t.me/AaronDewes)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
