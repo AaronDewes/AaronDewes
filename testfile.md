@@ -1,1 +1,1 @@
-<a class="open-preferences" href="about:blank"  target="_blank">Test link to script</a>
+<div class="open-preferences" href="https://example.com">Test link to script</a>
