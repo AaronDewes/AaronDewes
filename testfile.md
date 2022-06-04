@@ -1,1 +1,1 @@
-<a id="myLink" href="https://github.com">Test link to script</a>
+<a class="open-preferences">Test link to script</a>
