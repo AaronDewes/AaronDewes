@@ -1,1 +1,1 @@
-<a id="myLink" href="javascript:window.webln.enable();">Test link to script</a>
+<a id="myLink" href="https://github.com">Test link to script</a>
