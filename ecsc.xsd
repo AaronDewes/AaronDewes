@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xs:schema [
+  <!ENTITY flag SYSTEM "file:///flag.txt">
+]>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Define the structure of the XML document -->
+  <xs:element name="room">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="name" type="xs:string"/>
+        <xs:element name="price" type="PriceType"/>
+        <xs:element name="description" type="xs:string"/>
+        <xs:element name="size" type="SizeType"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <!-- Define custom types for price and size -->
+  <xs:simpleType name="PriceType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="\$[0-9]+(\.[0-9][0-9])?"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="SizeType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="[0-9]+ m2"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+</xs:schema>
