@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Citadel](https://github.com/runcitadel).
 
-- 📫 How to reach me **Email: aaron.dewes@protonmail.com; Telegram: [t.me/aarondewes](https://t.me/AaronDewes)**
+- 📫 How to reach me **Email: aaron@nirvati.org; Telegram: [t.me/aarondewes](https://t.me/AaronDewes)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
